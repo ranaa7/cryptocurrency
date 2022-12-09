@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552951901206",
+    "project_id": "cryptocurrency-ce978",
+    "storage_bucket": "cryptocurrency-ce978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552951901206:android:c352ce12bc9e4770191937",
+        "android_client_info": {
+          "package_name": "com.example.cryptocurrency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552951901206-iiffe22s3jl2ruplpn11h1op9edkd064.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSKOE6-iRseBrAufEyzqGZirDZ4CIv78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552951901206-iiffe22s3jl2ruplpn11h1op9edkd064.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
